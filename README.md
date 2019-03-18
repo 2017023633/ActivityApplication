@@ -1,6 +1,6 @@
 # ActivityApplication
-test life cycle
-**代码功能**：测试activity的生命周期。
+test life cycle  
+**代码功能**：测试activity的生命周期。  
 **代码：**
 ```
 public class MainActivity extends AppCompatActivity {
