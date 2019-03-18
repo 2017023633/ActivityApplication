@@ -39,4 +39,4 @@ public class MainActivity extends AppCompatActivity {
 ```
 **结果截图:**  
 ![image text](https://github.com/2017023633/hello-world/blob/master/image/%E5%AE%9E%E9%AA%8C1.1%E6%88%AA%E5%9B%BE.png)
-![image text]()
+![image text](https://github.com/2017023633/hello-world/blob/master/image/%E5%AE%9E%E9%AA%8C1.2%E6%88%AA%E5%9B%BE.png)
